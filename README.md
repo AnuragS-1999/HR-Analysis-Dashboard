@@ -58,4 +58,4 @@ Organizations face challenges in understanding workforce demographics, compensat
 ---
 ## **Files**:
 
-! [HR Analytics Dashboard](Image/HR Dashboard.png)
+! [HR Analytics Dashboard](Image/HR_Dashboard.png)
