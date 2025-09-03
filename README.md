@@ -61,4 +61,7 @@ Organizations face challenges in understanding workforce demographics, compensat
 The dataset used for this project is available here:  
 [HR Analysis Data.csv](HR%20Analysis%20Data.csv)
 
-![HR Dashboard](HR_Dashboard.png)
+---
+
+Feel free to connect with me for further details or if you want to discuss any part of this project!
+[Connect with me on LinkedIn](https://www.linkedin.com/in/anurag-srivastava-3447411a5/)
