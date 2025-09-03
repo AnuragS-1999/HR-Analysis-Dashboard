@@ -58,4 +58,5 @@ Organizations face challenges in understanding workforce demographics, compensat
 ---
 ## **Files**:
 
-! [HR Analytics Dashboard](HR Analysis Data.csv)
+The dataset used for this project is available here:  
+[HR Analysis Data.csv](HR%20Analysis%20Data.csv)
